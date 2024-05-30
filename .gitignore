@@ -1,4 +1,4 @@
 node_modules/
-dsit/
+dist/
 .env
 .env*
